@@ -1,5 +1,5 @@
 # Hands-on-15
-Implement and test on examples from the book. Then upload your source code to GitHub. Do this for the following algorithms:
+Implement and test on examples from the book. Then upload your source code to GitHub. Do this for the following algorithms:--
 
 1.  Dijkstra's algorithm
 
